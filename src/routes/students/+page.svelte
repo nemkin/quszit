@@ -7,6 +7,22 @@
 
 <div class=main>
 
+<h2>Past theses</h2>
+
+<ul>
+  <li>Viktória Nemkin (2022. 12. 18.) MSc: <a href="https://quszit.github.io/students/nemkin-2022-quantum-bioinformatics-msc.pdf">Application of quantum computing in Bioinformatics</a></li>
+  <li>Viktória Nemkin (2022. 11. 17.) TDK: <a href="https://quszit.github.io/students/nemkin-2022-memory-quantum-simulation-tdk.pdf">Optimizing memory usage in quantum algorithm simulation</a></li>
+  <li>Márton Zalavári (2021. 12. 18.) MSc: <a href="https://quszit.github.io/students/zalavari-2021-kozelito-vagasok-msc.pdf">Módszerek közel optimális vágások keresésére</a></li>
+  <li>Viktória Nemkin (2021. 11. 16.) TDK: <a href="https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf">Simulation of quantum walks on a classical computer</a></li>
+  <li>Márton Zalavári (2021. 11. 16.) TDK: <a href="https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf">Kvadratikus optimalizálás kvantum alapú számítógéppel</a></li>
+  <li>Dániel Szabó (2021. 05. 21.) MSc: <a href="https://quszit.github.io/students/szabo-2021-tulajdonsag-teszteles-msc.pdf">Függvény és gráftulajdonságok lokális tesztelése</a></li>
+  <li>Dániel Szabó (2018. 12. 06.) BSc: <a href="https://quszit.github.io/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf">Kvantuminformatika és gépi tanulás</a></li>
+  <li>Dániel Szabó (2018. 11. 14.) TDK: <a href="https://quszit.github.io/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf">Gépi tanulás és kvantuminformatika</a></li>
+  <li>Dániel Szabó (2017. 11. 16.) TDK: <a href="https://quszit.github.io/students/szabo-2017-grafelm-dwave-tdk.pdf">Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe</a></li>
+  <li>László Kabódi (2014. 12. 29.) MSc: <a href="https://quszit.github.io/students/kabodi-2014-kvantum-bolyongas-msc.pdf">Kvantumalgoritmusok véletlen bolyongással</a></li>
+  <li>László Kabódi (2014. 11. 11.) TDK: <a href="https://quszit.github.io/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf">Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata</a></li>
+</ul>
+
 <h2>Project proposals</h2>
 
 <h3>Quantum algorithms</h3>
