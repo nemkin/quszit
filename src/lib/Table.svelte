@@ -43,38 +43,20 @@
       border: none;
       border-bottom: 1px solid #eee;
       position: relative;
-      padding: 8px 8px 8px 35%;
+      padding: 8px 8px 8px 8px;
       text-align: left;
+    }
+
+    :global(.responsive-table td:last-child) {
+      border-bottom: 0;
     }
     
     :global(.responsive-table td:before) {
       content: attr(data-label) ": ";
-      position: absolute;
-      left: 6px;
-      width: 30%;
-      padding-right: 10px;
-      white-space: nowrap;
+      position: static;
+      display: block;
       font-weight: 600;
       color: #333;
     }
-    
-    :global(.responsive-table td:last-child) {
-      border-bottom: 0;
-    }
   }
-
-  @media (max-width: 20rem) {
-  :global(.responsive-table td) {
-    padding: 8px;
-    text-align: left;
-  }
-  
-  :global(.responsive-table td:before) {
-    position: static;
-    display: block;
-    width: 100%;
-    padding: 0 0 4px 0;
-    margin-bottom: 4px;
-  }
-}
 </style>
