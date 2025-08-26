@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
   background: none;
+
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 body {
