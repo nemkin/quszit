@@ -120,9 +120,6 @@
   margin: 1rem;
 }
 .type {
-  padding: 5px;
-  border-radius: 15px;
-  font-size: 0.9em;
   white-space: nowrap;
   
   $type-colors: (
@@ -135,7 +132,6 @@
     &.#{$type} {
       --type-color: #{$color};
       color: var(--type-color);
-      background-color: color-mix(in srgb, var(--type-color) 15%, white 85%);
     }
   }
 }

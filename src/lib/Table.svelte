@@ -4,49 +4,39 @@
   :global(.responsive-table) {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 2rem;
+    text-align: left;
   }
   
   :global(.responsive-table th) {
-    background-color: #f8f9fa;
-    color: #333;
-    font-weight: 600;
-    padding: 12px 10px;
-    text-align: left;
-    border-bottom: 2px solid #dee2e6;
+    background-color: #f2f2f2;
+    padding: 0.8rem;
+    border-bottom: 1px solid #ccc;
   }
   
   :global(.responsive-table td) {
-    padding: 10px;
-    border-bottom: 1px solid #dee2e6;
-    vertical-align: top;
-  }
-  
-  :global(.responsive-table .table-row) {
-    transition: background-color 0.2s;
+    padding: 0.8rem;
+    border-bottom: 1px solid #ccc;
   }
   
   :global(.responsive-table .table-row:hover) {
-    background-color: #f8f9fa;
+    background-color: #f8f8f8;
   }
 
   @media (max-width: 30rem) {
-    :global(.responsive-table), :global(.responsive-table thead), :global(.responsive-table tbody), :global(.responsive-table th), :global(.responsive-table td), :global(.responsive-table tr) {
+    :global(.responsive-table),
+    :global(.responsive-table td),
+    :global(.responsive-table tr) {
       display: block;
     }
     
-    :global(.responsive-table thead tr) {
-      position: absolute;
-      top: -9999px;
-      left: -9999px;
+    :global(.responsive-table thead) {
+      display: none;
     }
     
     :global(.responsive-table tr) {
       border: 1px solid #ccc;
       margin-bottom: 10px;
       padding: 10px;
-      border-radius: 8px;
-      background-color: #fff;
     }
     
     :global(.responsive-table td) {
