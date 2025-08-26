@@ -6,7 +6,7 @@
 <header>
   <a class="brand" href="{base}/">
     <img
-      src="/img/quantum-cat.png"
+      src="{base}/img/quantum-cat.png"
       loading="lazy"
       width="110"
       height="120"
