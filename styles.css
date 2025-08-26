@@ -60,7 +60,7 @@
   display: block;
 }
 
-@media (max-width: 30rem) {
+@media (max-width: 21rem) {
   .brand {
     flex-direction: column;
     text-align: center;
