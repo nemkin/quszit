@@ -18,7 +18,7 @@
   </p>
 
   <details>
-    <summary>2024. 05. 16. — Péter Kutas: Quantum cryptanalysis of isogeny-based cryptography</summary>
+    <summary>2024. 05. 16. Péter Kutas: <b>Quantum cryptanalysis of isogeny-based cryptography</b></summary>
     <p>
       Isogeny-based cryptography is one of the newest branches of post-quantum cryptography.
       The main appeal of isogenies is that you can design a variety of schemes from them and
@@ -31,7 +31,7 @@
   </details>
 
   <details>
-    <summary>2024. 04. 11. — Jakab Csatári: Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</summary>
+    <summary>2024. 04. 11. Jakab Csatári: <b>Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</b></summary>
     <p>
       <a href="https://arxiv.org/abs/2111.09787">https://arxiv.org/abs/2111.09787</a>
     </p>
@@ -58,7 +58,7 @@
   </details>
 
   <details>
-    <summary>2024. 03. 21. — Watch together: Tony Metger, QIP 2024, Unitary Complexity and the Uhlmann Transformation Problem</summary>
+    <summary>2024. 03. 21. Video: <b>Tony Metger, QIP 2024, Unitary Complexity and the Uhlmann Transformation Problem</b></summary>
     <p>
       State transformation problems such as compressing quantum information or breaking quantum
       commitments are fundamental quantum tasks. However, their computational difficulty cannot
@@ -85,58 +85,60 @@
   </details>
 
   <details>
-    <summary>2023-12-04 — Márton Áron: Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</summary>
+    <summary>2023. 12. 04. Márton Áron: <b>Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</b></summary>
     <p>
-      <a
-        href="https://quszit.github.io/seminar/aron-marton-2023-11-14-seminar-efficient-simulation-of-quantum-circuits-with-fermionic-linear-optics.pdf"
-      >Diasor</a>
+      <a href="https://quszit.github.io/seminar/marton-2023-qsim-fermionic-talk.pdf">Slides</a>
     </p>
-    <p>
-      1) Kvantumalgoritmusok hatékony szimulációja Majorana-fermionok segítségével:
-    </p>
-    <ul>
-      <li>Kvantumbitek reprezentálása fermionokkal (Abrikoszov-reprezentáció)</li>
-      <li>Kapukészlet: Fermionikus Lineáris Optika</li>
-      <li>Hatékonyan tárolható állapotok: gaussi állapotok</li>
-    </ul>
-    <p>2) A Fermionikus Lineáris Optikában megengedett kapuk:</p>
-    <ul>
-      <li>Időfejlesztés egy nemkölcsönható Hamilton-operátorral</li>
-      <li>Majorana-párok mérése</li>
-    </ul>
-    <p>
-      3) A felületi kód állapotpreparációjának szimulálása Fermionikus Lineáris Optika segítségével
-      (<a href="https://arxiv.org/abs/1710.02270">Bravyi, Sergey, et al. npj Quantum Information 4.1 (2018)</a>):
-    </p>
-    <ul>
-      <li>A felületi kód és annak Majorana-reprezentációja</li>
-      <li>A stabilizátormérések statisztikájának szimulálása.</li>
-    </ul>
+    <ol>
+      <li> Kvantumalgoritmusok hatékony szimulációja Majorana-fermionok segítségével:
+        <ul>
+          <li>Kvantumbitek reprezentálása fermionokkal (Abrikoszov-reprezentáció)</li>
+          <li>Kapukészlet: Fermionikus Lineáris Optika</li>
+          <li>Hatékonyan tárolható állapotok: gaussi állapotok</li>
+        </ul>
+      </li>
+      <li> A Fermionikus Lineáris Optikában megengedett kapuk:
+        <ul>
+          <li>Időfejlesztés egy nemkölcsönható Hamilton-operátorral</li>
+          <li>Majorana-párok mérése</li>
+        </ul>
+      </li>
+      <li>  A felületi kód állapotpreparációjának szimulálása Fermionikus Lineáris Optika segítségével
+        <a href="https://arxiv.org/abs/1710.02270">[arXiv:1710.02270]</a>:
+        <ul>
+          <li>A felületi kód és annak Majorana-reprezentációja</li>
+          <li>A stabilizátormérések statisztikájának szimulálása.</li>
+        </ul>
+      </li>
+    </ol>
   </details>
 
   <details>
-    <summary>2023-11-27 — Asbóth János: Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</summary>
+    <summary>2023. 11. 27. Asbóth János: <b>Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</b></summary>
     <p>
-      <a
-        href="https://quszit.github.io/seminar/janos-asboth-2023-11-14-seminar-clifford-szimulator.pdf"
-      >Diasor</a>
+      <a href="https://quszit.github.io/seminar/asboth-2023-qsim-clifford-talk.pdf">Diasor</a>
     </p>
-    <p>1) Clifford-szimulátor alapgondolata (1998, Gottesman, <a href="https://arxiv.org/abs/quant-ph/9807006">arxiv:quant-ph/9807006</a>)</p>
-    <ul>
-      <li>Heisenberg-kép vs Schrödinger-kép, Heisenberg-kép kvantumszámítógépekre</li>
-      <li>Clifford-operátorok, pl. CNOT</li>
-      <li>Stabilizátorformalizmus, -állapotok</li>
-    </ul>
-    <p>2) Mérések a Clifford-szimulátorban</p>
-    <p>3) A szimuláció gyorsítása</p>
-    <ul>
-      <li>2004, Aaronson &amp; Gottesman, <a href="https://arxiv.org/abs/quant-ph/0406196">Phys. Rev. A 70, 052328 (2004)</a></li>
-      <li>2021, Gidney, <a href="https://arxiv.org/abs/2103.02202">Quantum 5, 497 (2021)</a></li>
-    </ul>
-    <p>4) Fermionok: mik azok?</p>
-    <ul>
-      <li>Ábrázolásuk kvantumbitekkel: Jordan–Wigner stringek</li>
-    </ul>
+    <ol>
+      <li> Clifford-szimulátor alapgondolata <a href="https://arxiv.org/abs/quant-ph/9807006">[arXiv:quant-ph/9807006]</a>
+        <ul>
+          <li>Heisenberg-kép vs Schrödinger-kép, Heisenberg-kép kvantumszámítógépekre</li>
+          <li>Clifford-operátorok, pl. CNOT</li>
+          <li>Stabilizátorformalizmus, -állapotok</li>
+        </ul>
+      </li>
+      <li> Mérések a Clifford-szimulátorban </li>
+      <li> A szimuláció gyorsítása
+        <ul>
+          <li><a href="https://arxiv.org/abs/quant-ph/0406196">[arXiv:quant-ph/0406196]</a></li>
+          <li> <a href="https://arxiv.org/abs/2103.02202">[arXiv:2103.02202]</a></li>
+        </ul>
+      </li>
+      <li> Fermionok: mik azok?
+        <ul>
+          <li>Ábrázolásuk kvantumbitekkel: Jordan–Wigner stringek</li>
+        </ul>
+      </li>
+    </ol>
   </details>
 
   <details>
@@ -321,34 +323,14 @@
   }
 
   details {
-    margin: 0 0 1rem 0;
-    padding: 0.5rem 0;
-    border-top: 1px solid #e5e7eb;
+    margin: 1rem 0;
+    border-top: 1px solid #ccc;
   }
 
   summary {
-    font-weight: 600;
     cursor: pointer;
-    list-style: none;
-    outline: none;
   }
 
-  summary::-webkit-details-marker {
-    display: none;
-  }
 
-  details > summary::before {
-    content: "▸";
-    display: inline-block;
-    margin-right: 0.5rem;
-    transition: transform 0.2s ease;
-  }
 
-  details[open] > summary::before {
-    transform: rotate(90deg);
-  }
-
-  ul {
-    margin: 0.25rem 0 0.75rem 1.25rem;
-  }
 </style>
