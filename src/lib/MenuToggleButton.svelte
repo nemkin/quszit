@@ -36,8 +36,9 @@
 </button>
 
 <style lang="scss">
+  @import "../global.scss";
+
   $icon-size: 1.2rem;
-  $button-padding: 0.25rem;
   $stroke-width: 2;
 
   button {
@@ -46,7 +47,6 @@
     border: none;
     cursor: pointer;
     background: transparent;
-    padding: $button-padding;
     color: inherit;
 
     svg {
@@ -58,6 +58,10 @@
       line {
         stroke-width: $stroke-width;
       }
+    }
+
+    @include mobile {
+      display: block;
     }
   }
 </style>

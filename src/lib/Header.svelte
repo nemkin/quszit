@@ -42,16 +42,18 @@
     gap: 1rem;
     padding: 1rem;
     background: #8c6bc7;
+    color: #f7f7f8;
 
     ul {
       @include mobile-flex;
       gap: 1rem;
       list-style: none;
+      color: inherit;
 
       a {
         display: block;
         text-decoration: none;
-        color: #f7f7f8;
+        color: inherit;
         font-weight: 500;
         &:hover {
           opacity: 0.8;
