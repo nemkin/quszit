@@ -34,7 +34,6 @@
   .brand {
     margin: 1rem;
     gap: 1rem;
-    text-decoration: none;
     color: inherit;
     &:hover {
       opacity: 0.8;
