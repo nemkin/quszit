@@ -9,19 +9,84 @@
 
 <h2>Past theses</h2>
 
-<ul>
-  <li>Viktória Nemkin (2022. 12. 18.) MSc: <a href="https://quszit.github.io/students/nemkin-2022-quantum-bioinformatics-msc.pdf">Application of quantum computing in Bioinformatics</a></li>
-  <li>Viktória Nemkin (2022. 11. 17.) TDK: <a href="https://quszit.github.io/students/nemkin-2022-memory-quantum-simulation-tdk.pdf">Optimizing memory usage in quantum algorithm simulation</a></li>
-  <li>Márton Zalavári (2021. 12. 18.) MSc: <a href="https://quszit.github.io/students/zalavari-2021-kozelito-vagasok-msc.pdf">Módszerek közel optimális vágások keresésére</a></li>
-  <li>Viktória Nemkin (2021. 11. 16.) TDK: <a href="https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf">Simulation of quantum walks on a classical computer</a></li>
-  <li>Márton Zalavári (2021. 11. 16.) TDK: <a href="https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf">Kvadratikus optimalizálás kvantum alapú számítógéppel</a></li>
-  <li>Dániel Szabó (2021. 05. 21.) MSc: <a href="https://quszit.github.io/students/szabo-2021-tulajdonsag-teszteles-msc.pdf">Függvény és gráftulajdonságok lokális tesztelése</a></li>
-  <li>Dániel Szabó (2018. 12. 06.) BSc: <a href="https://quszit.github.io/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf">Kvantuminformatika és gépi tanulás</a></li>
-  <li>Dániel Szabó (2018. 11. 14.) TDK: <a href="https://quszit.github.io/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf">Gépi tanulás és kvantuminformatika</a></li>
-  <li>Dániel Szabó (2017. 11. 16.) TDK: <a href="https://quszit.github.io/students/szabo-2017-grafelm-dwave-tdk.pdf">Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe</a></li>
-  <li>László Kabódi (2014. 12. 29.) MSc: <a href="https://quszit.github.io/students/kabodi-2014-kvantum-bolyongas-msc.pdf">Kvantumalgoritmusok véletlen bolyongással</a></li>
-  <li>László Kabódi (2014. 11. 11.) TDK: <a href="https://quszit.github.io/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf">Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata</a></li>
-</ul>
+<table class="theses-table">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Student</th>
+      <th>Type</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2022-quantum-bioinformatics-msc.pdf', '_blank')}>
+      <td data-label="Date">2022. 12. 18.</td>
+      <td data-label="Student">Viktória Nemkin</td>
+      <td data-label="Type"><span class="type msc">MSc</span></td>
+      <td data-label="Title">Application of quantum computing in Bioinformatics</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2022-memory-quantum-simulation-tdk.pdf', '_blank')}>
+      <td data-label="Date">2022. 11. 17.</td>
+      <td data-label="Student">Viktória Nemkin</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Optimizing memory usage in quantum algorithm simulation</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/zalavari-2021-kozelito-vagasok-msc.pdf', '_blank')}>
+      <td data-label="Date">2021. 12. 18.</td>
+      <td data-label="Student">Márton Zalavári</td>
+      <td data-label="Type"><span class="type msc">MSc</span></td>
+      <td data-label="Title">Módszerek közel optimális vágások keresésére</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf', '_blank')}>
+      <td data-label="Date">2021. 11. 16.</td>
+      <td data-label="Student">Viktória Nemkin</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Simulation of quantum walks on a classical computer</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf', '_blank')}>
+      <td data-label="Date">2021. 11. 16.</td>
+      <td data-label="Student">Márton Zalavári</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Kvadratikus optimalizálás kvantum alapú számítógéppel</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2021-tulajdonsag-teszteles-msc.pdf', '_blank')}>
+      <td data-label="Date">2021. 05. 21.</td>
+      <td data-label="Student">Dániel Szabó</td>
+      <td data-label="Type"><span class="type msc">MSc</span></td>
+      <td data-label="Title">Függvény és gráftulajdonságok lokális tesztelése</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf', '_blank')}>
+      <td data-label="Date">2018. 12. 06.</td>
+      <td data-label="Student">Dániel Szabó</td>
+      <td data-label="Type"><span class="type bsc">BSc</span></td>
+      <td data-label="Title">Kvantuminformatika és gépi tanulás</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf', '_blank')}>
+      <td data-label="Date">2018. 11. 14.</td>
+      <td data-label="Student">Dániel Szabó</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Gépi tanulás és kvantuminformatika</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2017-grafelm-dwave-tdk.pdf', '_blank')}>
+      <td data-label="Date">2017. 11. 16.</td>
+      <td data-label="Student">Dániel Szabó</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/kabodi-2014-kvantum-bolyongas-msc.pdf', '_blank')}>
+      <td data-label="Date">2014. 12. 29.</td>
+      <td data-label="Student">László Kabódi</td>
+      <td data-label="Type"><span class="type msc">MSc</span></td>
+      <td data-label="Title">Kvantumalgoritmusok véletlen bolyongással</td>
+    </tr>
+    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf', '_blank')}>
+      <td data-label="Date">2014. 11. 11.</td>
+      <td data-label="Student">László Kabódi</td>
+      <td data-label="Type"><span class="type tdk">TDK</span></td>
+      <td data-label="Title">Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Project proposals</h2>
 
@@ -50,5 +115,101 @@ There are several methods for quantizing classical walks, that can be interestin
 <style>
  .main {
   margin: 1rem;
+ }
+ 
+ .theses-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+ }
+ 
+ .theses-table th {
+  background-color: #f8f9fa;
+  color: #333;
+  font-weight: 600;
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 2px solid #dee2e6;
+ }
+ 
+ .theses-table td {
+  padding: 10px;
+  border-bottom: 1px solid #dee2e6;
+  vertical-align: top;
+ }
+ 
+ .thesis-row {
+  cursor: pointer;
+  transition: background-color 0.2s;
+ }
+ 
+ .thesis-row:hover {
+  background-color: #f8f9fa;
+ }
+ 
+ .type {
+  font-weight: 600;
+  padding: 3px 7px;
+  border-radius: 10px;
+  font-size: 0.85em;
+  white-space: nowrap;
+ }
+ 
+ .type.msc {
+  background-color: #e3f2fd;
+  color: #1976d2;
+ }
+ 
+ .type.bsc {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+ }
+ 
+ .type.tdk {
+  background-color: #e8f5e8;
+  color: #388e3c;
+ }
+
+ @media (max-width: 30rem) {
+  .theses-table, .theses-table thead, .theses-table tbody, .theses-table th, .theses-table td, .theses-table tr {
+   display: block;
+  }
+  
+  .theses-table thead tr {
+   position: absolute;
+   top: -9999px;
+   left: -9999px;
+  }
+  
+  .theses-table tr {
+   border: 1px solid #ccc;
+   margin-bottom: 10px;
+   padding: 10px;
+   border-radius: 8px;
+   background-color: #fff;
+  }
+  
+  .theses-table td {
+   border: none;
+   border-bottom: 1px solid #eee;
+   position: relative;
+   padding: 8px 8px 8px 35%;
+   text-align: left;
+  }
+  
+  .theses-table td:before {
+   content: attr(data-label) ": ";
+   position: absolute;
+   left: 6px;
+   width: 30%;
+   padding-right: 10px;
+   white-space: nowrap;
+   font-weight: 600;
+   color: #333;
+  }
+  
+  .theses-table td:last-child {
+   border-bottom: 0;
+  }
  }
 </style>
