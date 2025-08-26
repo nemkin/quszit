@@ -142,10 +142,9 @@
   </details>
 
   <details>
-    <summary>2023-11-20 — Pituk Sára: Elfs, trees and quantum walks</summary>
+    <summary>2023. 11. 20. Pituk Sára: <b>Elfs, trees and quantum walks</b></summary>
     <p>
-      Az előadásban
-      <a href="https://arxiv.org/abs/2211.16379">Simon Apers és Stephen Piddock &quot;Elfs, trees and quantum walks&quot;</a>
+      Az előadásban Simon Apers és Stephen Piddock <a href="https://arxiv.org/abs/2211.16379">Elfs, trees and quantum walks</a>
       című cikkéről lesz szó. Ennek a témája egy kvantumbolyongásos algoritmus, ami egy gráfon vett
       véletlen bolyongás érkezési eloszlása szerint vesz mintát a gráf megjelölt csúcsai közül.
       Az eredmény a bolyongások és elektromos hálózatok közötti kapcsolaton alapszik.
@@ -153,7 +152,7 @@
   </details>
 
   <details>
-    <summary>2023-11-06 — Gilyén András: Iterative refinement for quantum tomography and quantum linear equation solving</summary>
+    <summary>2023. 11. 06. Gilyén András: <b>Iterative refinement for quantum tomography and quantum linear equation solving</b></summary>
     <p>
       We show how to use iterative refinement techniques, which is a technique from the 60's suited
       for computers with low-precision arithmetic, for more efficient pure quantum state tomography,
@@ -164,9 +163,9 @@
   </details>
 
   <details>
-    <summary>2023-09-25 — Kiss Tamás: Kvantumbitek gazdag dinamikája</summary>
+    <summary>2023. 09. 25. Kiss Tamás: <b>Kvantumbitek gazdag dinamikája</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/tamas-kiss-2023-09-18-seminar-rich-dynamics-of-qubits.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/kiss-2023-qubit-dynamics-talk.pdf">Diasor</a>
     </p>
     <p>
       Egy kétállapotú, nemrelativisztikus kvantumrendszer (vagyis egy kvantumbit) az egyik
