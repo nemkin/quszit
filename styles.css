@@ -39,12 +39,8 @@
   font-weight: 500;
 }
 
-#main-menu.hidden {
-  display: none;
-}
-
 .nav-toggle {
-  display: block;
+  display: none;
   text-decoration: none;
   text-align: center;
   color: #f7f7f8;
@@ -71,4 +67,15 @@
   .menu ul {
     flex-direction: column;
   }
+
+  .nav-toggle {
+    display: block;
+  }
+
+
+#main-menu.hidden {
+  display: none;
+}
+
+
 }
