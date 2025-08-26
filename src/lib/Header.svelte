@@ -20,7 +20,7 @@
 
   <nav class="menu" aria-label="Main navigation">
     <ToggleButton controls="main-menu" class="nav-toggle">
-      <Bars />
+      <Bars class="nav-toggle-bars"/>
     </ToggleButton>
     <ul id="main-menu">
       <li><a href="/news">News</a></li>
@@ -32,7 +32,6 @@
 </header>
 
 <style>
-
   .brand {
     display: flex;
     align-items: center;
@@ -48,15 +47,14 @@
 
   .menu {
     display: flex;
+    padding: 0.5rem;
     gap: 1rem;
     background: #8c6bc7;
   }
 
   .menu ul {
     display: flex;
-    flex-direction: row;
     list-style: none;
-    align-items: center;
     gap: 1rem;
   }
 
@@ -76,7 +74,7 @@
     cursor: pointer;
   }
 
-  .nav-toggle .Bars {
+  .nav-toggle-bars {
     height: 1.2rem;
     width: 1.2rem;
     display: block;
