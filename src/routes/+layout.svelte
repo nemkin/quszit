@@ -1,7 +1,7 @@
 <script>
   import Header from '$lib/Header.svelte';
 	import favicon from '$lib/icons/favicon.png';
-  import '../global.css';
+  import '../global.scss';
 	let { children } = $props();
 </script>
 

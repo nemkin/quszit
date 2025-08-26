@@ -1,6 +1,5 @@
 <script>
-  import MenuButton from '$lib/MenuButton.svelte';
-  import Bars from '$lib/icons/Bars.svelte';
+  import MenuToggleButton from "$lib/MenuToggleButton.svelte";
 </script>
 
 <header>
@@ -12,14 +11,14 @@
       height="100"
       alt="QuSZIT logo: cute Schrödinger's cat inside the box, half dead half alive"
     />
-    <div class="title">
+    <div>
       <h1>QuSZIT</h1>
       <p>Quantum algorithms at BME VIK SZIT</p>
     </div>
   </div>
 
   <nav class="menu" aria-label="Main navigation">
-    <MenuButton controls="main-menu" \>
+    <MenuToggleButton controls="main-menu" />
     <ul id="main-menu">
       <li><a href="/news">News</a></li>
       <li><a href="/students">Students</a></li>
@@ -29,43 +28,35 @@
   </nav>
 </header>
 
-<style>
-  .brand {
-    display: flex;
-    align-items: center;
-    margin: 1rem;
-    gap: 1rem;
-  }
+<style lang="scss">
+  @import "../global.scss";
 
-  .title {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+  .brand {
+    @include mobile-flex;
+    gap: 1rem;
+    margin: 1rem;
   }
 
   .menu {
-    display: flex;
-    padding: 0.5rem;
+    @include mobile-flex;
     gap: 1rem;
+    padding: 1rem;
     background: #8c6bc7;
-  }
 
-  .menu ul {
-    display: flex;
-    list-style: none;
-    gap: 1rem;
-  }
+    ul {
+      @include mobile-flex;
+      gap: 1rem;
+      list-style: none;
 
-  .menu ul a {
-    display: block;
-    text-decoration: none;
-    color: #f7f7f8;
-    font-weight: 500;
-  }
-
-  @media (max-width: 30rem) {
-    .brand { flex-direction: column; }
-    .menu { flex-direction: column; }
-    .menu ul { flex-direction: column; }
+      a {
+        display: block;
+        text-decoration: none;
+        color: #f7f7f8;
+        font-weight: 500;
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
   }
 </style>

@@ -7,7 +7,7 @@
     if (!el) return;
 
     if (el.style.display === "none") {
-      el.style.display = ""; // let CSS decide normal layout
+      el.style.display = "";
       expanded = true;
     } else {
       el.style.display = "none";
@@ -17,7 +17,6 @@
 </script>
 
 <button
-  type="button"
   aria-controls={controls}
   aria-expanded={expanded}
   aria-label="Toggle navigation menu"
@@ -36,27 +35,29 @@
   </svg>
 </button>
 
-<style>
-button {
+<style lang="scss">
+  $icon-size: 1.2rem;
+  $button-padding: 0.25rem;
+  $stroke-width: 2;
+
+  button {
     display: none;
     text-decoration: none;
     border: none;
     cursor: pointer;
     background: transparent;
-    padding: 0.25rem;
-  }
-
-  svg {
-    height: 1.2rem;
-    width: 1.2rem;
-    display: block;
+    padding: $button-padding;
     color: inherit;
-  }
 
-  /* Show the toggle button on small screens */
-  @media (max-width: 30rem) {
-    .button {
+    svg {
+      width: $icon-size;
+      height: $icon-size;
       display: block;
+      color: inherit;
+      
+      line {
+        stroke-width: $stroke-width;
+      }
     }
   }
 </style>

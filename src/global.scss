@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background: none;
+}
+
+$mobile-breakpoint: 30rem;
+
+@mixin mobile {
+  @media (max-width: $mobile-breakpoint) {
+    @content;
+  }
+}
+
+@mixin mobile-flex {
+  display: flex;
+  @media (max-width: $mobile-breakpoint) {
+    flex-direction: column;
+    @content;
+  }
+}
