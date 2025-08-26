@@ -115,31 +115,28 @@
   </div>
 </Table>
 
-<style>
-  .main {
-    margin: 1rem;
-  }
+<style lang="scss">
+.main {
+  margin: 1rem;
+}
+.type {
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 0.9em;
+  white-space: nowrap;
   
-  .type {
-    font-weight: 600;
-    padding: 3px 7px;
-    border-radius: 10px;
-    font-size: 0.85em;
-    white-space: nowrap;
-  }
+  $type-colors: (
+    msc: #dc2626,
+    bsc: #059669,
+    tdk: #4f46e5
+  );
   
-  .type.msc {
-    background-color: #e3f2fd;
-    color: #1976d2;
+  @each $type, $color in $type-colors {
+    &.#{$type} {
+      --type-color: #{$color};
+      color: var(--type-color);
+      background-color: color-mix(in srgb, var(--type-color) 15%, white 85%);
+    }
   }
-  
-  .type.bsc {
-    background-color: #f3e5f5;
-    color: #7b1fa2;
-  }
-  
-  .type.tdk {
-    background-color: #e8f5e8;
-    color: #388e3c;
-  }
+}
 </style>
