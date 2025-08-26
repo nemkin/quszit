@@ -28,6 +28,8 @@
     fill="none" 
     stroke="currentColor" 
     aria-hidden="true"
+    width=16px
+    height=16px
   >
     <line x1="3" y1="6" x2="21" y2="6" stroke-width="2" stroke-linecap="round"/>
     <line x1="3" y1="12" x2="21" y2="12" stroke-width="2" stroke-linecap="round"/>
