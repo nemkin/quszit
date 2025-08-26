@@ -19,7 +19,7 @@
 
   <nav class="menu" aria-label="Main navigation">
     <MenuToggleButton controls="main-menu" />
-    <ul id="main-menu">
+    <ul id="main-menu" class="hidden">
       <li><a href="/news">News</a></li>
       <li><a href="/students">Students</a></li>
       <li><a href="/research">Research</a></li>
@@ -34,6 +34,7 @@
   .brand {
     gap: 1rem;
     margin: 1rem;
+
     @include mobile-flex;
   }
 
@@ -49,8 +50,14 @@
       gap: 1rem;
       list-style: none;
       color: inherit;
+
       @include mobile-flex;
-      
+      @include mobile {
+        &.hidden {
+          display: none;
+        }
+      }
+
       a {
         display: block;
         text-decoration: none;

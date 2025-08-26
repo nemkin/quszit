@@ -5,14 +5,8 @@
   function toggle() {
     const el = document.getElementById(controls);
     if (!el) return;
-
-    if (el.style.display === "none") {
-      el.style.display = "";
-      expanded = true;
-    } else {
-      el.style.display = "none";
-      expanded = false;
-    }
+    el.classList.toggle('hidden');
+    expanded = !expanded;
   }
 </script>
 

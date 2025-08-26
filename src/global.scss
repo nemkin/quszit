@@ -18,6 +18,5 @@ $mobile-breakpoint: 30rem;
   display: flex;
   @media (max-width: $mobile-breakpoint) {
     flex-direction: column;
-    @content;
   }
 }
