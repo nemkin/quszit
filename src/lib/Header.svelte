@@ -1,9 +1,10 @@
 <script>
+  import { base } from '$app/paths';
   import MenuToggleButton from "$lib/MenuToggleButton.svelte";
 </script>
 
 <header>
-  <a class="brand" href="/">
+  <a class="brand" href="{base}/">
     <img
       src="/img/quantum-cat.png"
       loading="lazy"
@@ -20,11 +21,11 @@
   <nav class="menu" aria-label="Main navigation">
     <MenuToggleButton controls="main-menu" />
     <ul id="main-menu" class="hidden">
-      <li><a href="/news">News</a></li>
-      <li><a href="/students">Students</a></li>
-      <li><a href="/research">Research</a></li>
-      <li><a href="/seminar">Seminar</a></li>
-      <li><a href="/contact">Contact</a></li>
+      <li><a href="{base}/news">News</a></li>
+      <li><a href="{base}/students">Students</a></li>
+      <li><a href="{base}/research">Research</a></li>
+      <li><a href="{base}/seminar">Seminar</a></li>
+      <li><a href="{base}/contact">Contact</a></li>
     </ul>
   </nav>
 </header>
