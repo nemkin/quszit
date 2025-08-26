@@ -3,7 +3,7 @@
 </script>
 
 <header>
-  <div class="brand">
+  <a class="brand" href="/">
     <img
       src="/img/quantum-cat.jpg"
       loading="lazy"
@@ -15,7 +15,7 @@
       <h1>QuSZIT</h1>
       <p>Quantum algorithms at BME VIK SZIT</p>
     </div>
-  </div>
+  </a>
 
   <nav class="menu" aria-label="Main navigation">
     <MenuToggleButton controls="main-menu" />
@@ -34,6 +34,8 @@
   .brand {
     margin: 1rem;
     gap: 1rem;
+    text-decoration: none;
+    color: inherit;
 
     @include mobile-flex;
 
