@@ -10,8 +10,10 @@ const config = {
       assets: 'build',
       precompress: true,
       fallback: 'index.html'
-    })
+    }),
+    paths: {
+      base: process.env.BASE_PATH ?? ''
+    }
   }
 };
-
 export default config;
