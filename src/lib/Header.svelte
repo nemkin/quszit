@@ -1,5 +1,5 @@
 <script>
-  import ToggleButton from '$lib/ToggleButton.svelte';
+  import MenuButton from '$lib/MenuButton.svelte';
   import Bars from '$lib/icons/Bars.svelte';
 </script>
 
@@ -19,9 +19,7 @@
   </div>
 
   <nav class="menu" aria-label="Main navigation">
-    <ToggleButton controls="main-menu" class="nav-toggle">
-      <Bars class="nav-toggle-bars"/>
-    </ToggleButton>
+    <MenuButton controls="main-menu" \>
     <ul id="main-menu">
       <li><a href="/news">News</a></li>
       <li><a href="/students">Students</a></li>
@@ -63,21 +61,6 @@
     text-decoration: none;
     color: #f7f7f8;
     font-weight: 500;
-  }
-
-  .nav-toggle {
-    display: none;
-    text-decoration: none;
-    text-align: center;
-    color: #f7f7f8;
-    border: none;
-    cursor: pointer;
-  }
-
-  .nav-toggle-bars {
-    height: 1.2rem;
-    width: 1.2rem;
-    display: block;
   }
 
   @media (max-width: 30rem) {
