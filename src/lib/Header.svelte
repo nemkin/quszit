@@ -11,7 +11,7 @@
       height="100"
       alt="QuSZIT logo: cute Schrödinger's cat inside the box, half dead half alive"
     />
-    <div>
+    <div class="title">
       <h1>QuSZIT</h1>
       <p>Quantum algorithms at BME VIK SZIT</p>
     </div>
@@ -32,15 +32,23 @@
   @use "../global.scss" as *;
 
   .brand {
-    gap: 1rem;
     margin: 1rem;
+    gap: 1rem;
 
     @include mobile-flex;
+
+    .title {
+      display: flex;
+      flex-direction: column;
+      margin-top: auto;
+      gap: 0.5rem;
+    }
   }
 
   .menu {
-    gap: 1rem;
     padding: 1rem;
+    gap: 1rem;
+
     background: #8c6bc7;
     color: #f7f7f8;
 
@@ -48,6 +56,7 @@
 
     ul {
       gap: 1rem;
+
       list-style: none;
       color: inherit;
 
@@ -60,6 +69,7 @@
 
       a {
         display: block;
+
         text-decoration: none;
         color: inherit;
         font-weight: 500;
