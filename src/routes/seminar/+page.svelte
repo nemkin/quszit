@@ -237,7 +237,7 @@
   </details>
 
   <details>
-    <summary>2023-04-28 — Galambos Máté: Összefonódás és ami mögötte van</summary>
+    <summary>2023. 04. 28. Galambos Máté: <b>Összefonódás és ami mögötte van</b></summary>
     <ul>
       <li>Bell-teszt
         <ul>
@@ -275,7 +275,7 @@
   </details>
 
   <details>
-    <summary>023-04-21 — Gilyén András: Kvantumos jelfeldolgozás és szingulárisérték transzformáció</summary>
+    <summary>2023. 04. 21. Gilyén András: <b>Kvantumos jelfeldolgozás és szingulárisérték transzformáció</b></summary>
     <p>
       A múlt héten tárgyalt lineáris algebrai algoritmusos keretrendszer fő állításainak egy egyszerű elemi
       bizonyítását fogom elmondani.
@@ -283,9 +283,11 @@
   </details>
 
   <details>
-    <summary>2023-04-14 — Gilyén András: A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció</summary>
+    <summary>2023. 04. 14. Gilyén András: <b>A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/andras-gilyen-2023-04-14-seminar-quantum-singular-value-transformation.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/gilyen-2023-qsvd-talk.pdf">Diasor</a>
+    </p>
+    <p>
       A kvantumos algoritmusok lineáris algebrai megközelítése az elmúlt években elvezetett egy egységes algoritmikus
       keretrendszer kifejlesztéséhez. A kvantumos szingulárisérték-transzformáció a kvantumos algoritmusok egy olyan
       absztrakciója ami egyben közös általánosítása a Grover keresésnek, az amplitúdó amplifikációnak, a Szegedy-féle
@@ -294,7 +296,7 @@
   </details>
 
   <details>
-    <summary>2023-03-31 — Pituk Sára: Mintavételezés kvantumos bolyongásokkal</summary>
+    <summary>2023. 03. 31. Pituk Sára: <b>Mintavételezés kvantumos bolyongásokkal</b></summary>
     <p>
       A kvantumos bolyongások a klasszikus véletlen bolyongások kvantumos megfelelői. Többek között a mintavételezésben
       is használnak véletlen bolyongáson alapuló algoritmusokat. Az előadásban bemutatok egy eredményt, ami szerint
@@ -303,17 +305,16 @@
       a stacionárius eloszlás.
     </p>
     <p>
-      <strong>Kapcsolódó irodalom</strong>: Dante Bencivenga: Sampling Using Controlled Quantum Walks
-      (<a href="https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content">
-        https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content
-      </a>)
+      <b>Kapcsolódó irodalom</b>: <a href="https://prism.ucalgary.ca/server/api/core/bitstreams/6c838e8f-958e-474c-9160-cda2d73c1623/content">
+        Dante Bencivenga: Sampling Using Controlled Quantum Walks
+      </a>
     </p>
   </details>
 
   <details>
-    <summary>2023-03-17 — Gilyén András: Bevezetés a Szegedy-féle kvantumbolyongásokba</summary>
+    <summary>2023. 03. 17. Gilyén András: <b>Bevezetés a Szegedy-féle kvantumbolyongásokba</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/andras-gilyen-2023-03-17-seminar-quantum-walks.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/gilyen-2023-qwalks-talk.pdf">Diasor</a>
     </p>
   </details>
 </section>
