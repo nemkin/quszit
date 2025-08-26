@@ -7,7 +7,7 @@
     <img
       src="/img/quantum-cat.png"
       loading="lazy"
-      width="145"
+      width="140"
       height="150"
       alt="QuSZIT logo: cute Schrödinger's cat inside the box, half dead half alive"
     />
