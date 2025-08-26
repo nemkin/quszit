@@ -5,10 +5,10 @@
 <header>
   <a class="brand" href="/">
     <img
-      src="/img/quantum-cat.jpg"
+      src="/img/quantum-cat.png"
       loading="lazy"
-      width="100"
-      height="100"
+      width="145"
+      height="150"
       alt="QuSZIT logo: cute Schrödinger's cat inside the box, half dead half alive"
     />
     <div class="title">
@@ -36,6 +36,9 @@
     gap: 1rem;
     text-decoration: none;
     color: inherit;
+    &:hover {
+      opacity: 0.8;
+    }
 
     @include mobile-flex;
 
