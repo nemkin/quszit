@@ -19,71 +19,71 @@
     </tr>
   </thead>
   <tbody>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2022-quantum-bioinformatics-msc.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2022. 12. 18.</td>
       <td data-label="Student">Viktória Nemkin</td>
       <td data-label="Type"><span class="type msc">MSc</span></td>
-      <td data-label="Title">Application of quantum computing in Bioinformatics</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/nemkin-2022-quantum-bioinformatics-msc.pdf" target="_blank">Application of quantum computing in Bioinformatics</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2022-memory-quantum-simulation-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2022. 11. 17.</td>
       <td data-label="Student">Viktória Nemkin</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Optimizing memory usage in quantum algorithm simulation</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/nemkin-2022-memory-quantum-simulation-tdk.pdf" target="_blank">Optimizing memory usage in quantum algorithm simulation</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/zalavari-2021-kozelito-vagasok-msc.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2021. 12. 18.</td>
       <td data-label="Student">Márton Zalavári</td>
       <td data-label="Type"><span class="type msc">MSc</span></td>
-      <td data-label="Title">Módszerek közel optimális vágások keresésére</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/zalavari-2021-kozelito-vagasok-msc.pdf" target="_blank">Módszerek közel optimális vágások keresésére</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2021. 11. 16.</td>
       <td data-label="Student">Viktória Nemkin</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Simulation of quantum walks on a classical computer</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf" target="_blank">Simulation of quantum walks on a classical computer</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2021. 11. 16.</td>
       <td data-label="Student">Márton Zalavári</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Kvadratikus optimalizálás kvantum alapú számítógéppel</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf" target="_blank">Kvadratikus optimalizálás kvantum alapú számítógéppel</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2021-tulajdonsag-teszteles-msc.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2021. 05. 21.</td>
       <td data-label="Student">Dániel Szabó</td>
       <td data-label="Type"><span class="type msc">MSc</span></td>
-      <td data-label="Title">Függvény és gráftulajdonságok lokális tesztelése</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/szabo-2021-tulajdonsag-teszteles-msc.pdf" target="_blank">Függvény és gráftulajdonságok lokális tesztelése</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2018. 12. 06.</td>
       <td data-label="Student">Dániel Szabó</td>
       <td data-label="Type"><span class="type bsc">BSc</span></td>
-      <td data-label="Title">Kvantuminformatika és gépi tanulás</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf" target="_blank">Kvantuminformatika és gépi tanulás</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2018. 11. 14.</td>
       <td data-label="Student">Dániel Szabó</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Gépi tanulás és kvantuminformatika</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf" target="_blank">Gépi tanulás és kvantuminformatika</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/szabo-2017-grafelm-dwave-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2017. 11. 16.</td>
       <td data-label="Student">Dániel Szabó</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/szabo-2017-grafelm-dwave-tdk.pdf" target="_blank">Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/kabodi-2014-kvantum-bolyongas-msc.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2014. 12. 29.</td>
       <td data-label="Student">László Kabódi</td>
       <td data-label="Type"><span class="type msc">MSc</span></td>
-      <td data-label="Title">Kvantumalgoritmusok véletlen bolyongással</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/kabodi-2014-kvantum-bolyongas-msc.pdf" target="_blank">Kvantumalgoritmusok véletlen bolyongással</a></td>
     </tr>
-    <tr class="thesis-row" on:click={() => window.open('https://quszit.github.io/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf', '_blank')}>
+    <tr class="thesis-row">
       <td data-label="Date">2014. 11. 11.</td>
       <td data-label="Student">László Kabódi</td>
       <td data-label="Type"><span class="type tdk">TDK</span></td>
-      <td data-label="Title">Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata</td>
+      <td data-label="Title"><a href="https://quszit.github.io/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf" target="_blank">Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata</a></td>
     </tr>
   </tbody>
 </table>
@@ -139,7 +139,6 @@ There are several methods for quantizing classical walks, that can be interestin
  }
  
  .thesis-row {
-  cursor: pointer;
   transition: background-color 0.2s;
  }
  
