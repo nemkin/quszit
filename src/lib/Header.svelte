@@ -29,27 +29,28 @@
 </header>
 
 <style lang="scss">
-  @import "../global.scss";
+  @use "../global.scss" as *;
 
   .brand {
-    @include mobile-flex;
     gap: 1rem;
     margin: 1rem;
+    @include mobile-flex;
   }
 
   .menu {
-    @include mobile-flex;
     gap: 1rem;
     padding: 1rem;
     background: #8c6bc7;
     color: #f7f7f8;
 
+    @include mobile-flex;
+
     ul {
-      @include mobile-flex;
       gap: 1rem;
       list-style: none;
       color: inherit;
-
+      @include mobile-flex;
+      
       a {
         display: block;
         text-decoration: none;

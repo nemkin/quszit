@@ -36,17 +36,15 @@
 </button>
 
 <style lang="scss">
-  @import "../global.scss";
+  @use "../global.scss" as *;
 
-  $icon-size: 1.2rem;
+  $icon-size: 1rem;
   $stroke-width: 2;
 
   button {
     display: none;
-    text-decoration: none;
     border: none;
     cursor: pointer;
-    background: transparent;
     color: inherit;
 
     svg {
@@ -54,10 +52,6 @@
       height: $icon-size;
       display: block;
       color: inherit;
-      
-      line {
-        stroke-width: $stroke-width;
-      }
     }
 
     @include mobile {
