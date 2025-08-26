@@ -62,4 +62,19 @@
       border-bottom: 0;
     }
   }
+
+  @media (max-width: 20rem) {
+  :global(.responsive-table td) {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  :global(.responsive-table td:before) {
+    position: static;
+    display: block;
+    width: 100%;
+    padding: 0 0 4px 0;
+    margin-bottom: 4px;
+  }
+}
 </style>
