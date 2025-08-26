@@ -1,5 +1,5 @@
 <script>
-  import MenuToggle from '$lib/MenuToggle.svelte';
+  import ToggleButton from '$lib/ToggleButton.svelte';
   import Bars from '$lib/icons/Bars.svelte';
 </script>
 
@@ -19,9 +19,9 @@
   </div>
 
   <nav class="menu" aria-label="Main navigation">
-    <MenuToggle controls="main-menu" class="nav-toggle">
+    <ToggleButton controls="main-menu" class="nav-toggle">
       <Bars />
-    </MenuToggle>
+    </ToggleButton>
     <ul id="main-menu">
       <li><a href="/news">News</a></li>
       <li><a href="/students">Students</a></li>
