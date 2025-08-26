@@ -1,3 +1,7 @@
+<script>
+  import MenuToggle from '$lib/MenuToggle.svelte';
+</script>
+
 <header>
   <div class="brand">
     <img
@@ -14,18 +18,13 @@
   </div>
 
   <nav class="menu" aria-label="Main navigation">
-    <button
-      class="nav-toggle"
-      aria-label="Menu"
-      aria-controls="main-menu"
-      aria-expanded="true"
-    >
+    <MenuToggle controls="main-menu" class="nav-toggle">
       <svg width="24" height="24" fill="currentColor" aria-hidden="true">
         <use href="/img/icons.svg#bars"></use>
       </svg>
-    </button>
+    </MenuToggle>
 
-    <ul id="main-menu">
+    <ul id="main-menu" class="menu-list">
       <li><a href="/news">News</a></li>
       <li><a href="/students">Students</a></li>
       <li><a href="/research">Research</a></li>
@@ -35,13 +34,6 @@
 </header>
 
 <style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font: Arial;
-    background: none;
-  }
 
   .brand {
     display: flex;
@@ -60,7 +52,7 @@
     background: #8c6bc7;
   }
 
-  .menu ul {
+  .menu-list {
     display: flex;
     flex-direction: row;
     list-style: none;
@@ -68,16 +60,15 @@
     gap: 1rem;
   }
 
-  .menu a {
+  .menu-list a {
     text-decoration: none;
     color: #f7f7f8;
     font-weight: 500;
   }
 
   @media (max-width: 30rem) {
-    .brand {
-      flex-direction: column;
-      text-align: center;
-    }
+    .brand { flex-direction: column; text-align: center; }
+    .menu { flex-direction: column; align-items: flex-start; }
+    .menu-list { flex-direction: column; }
   }
 </style>
