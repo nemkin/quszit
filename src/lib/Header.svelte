@@ -31,6 +31,11 @@
 <style lang="scss">
   @use "../global.scss" as *;
 
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
   .brand {
     margin: 1rem;
     gap: 1rem;
