@@ -23,7 +23,6 @@
   display: flex;
   gap: 1rem;
   padding: 1rem;
-  align-items: center;
   background: #8c6bc7;
 }
 
@@ -33,16 +32,15 @@
   list-style: none;
 }
 
-#main-menu.hidden {
-  display: none;
-}
-
 .menu a {
   display: block;
   text-decoration: none;
-  text-align: center;
   color: #f7f7f8;
   font-weight: 500;
+}
+
+#main-menu.hidden {
+  display: none;
 }
 
 .nav-toggle {
@@ -65,9 +63,11 @@
     flex-direction: column;
     text-align: center;
   }
+
   .menu {
     flex-direction: column;
   }
+
   .menu ul {
     flex-direction: column;
   }
