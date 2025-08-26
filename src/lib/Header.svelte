@@ -24,6 +24,7 @@
       <li><a href="/students">Students</a></li>
       <li><a href="/research">Research</a></li>
       <li><a href="/seminar">Seminar</a></li>
+      <li><a href="/contact">Contact</a></li>
     </ul>
   </nav>
 </header>
