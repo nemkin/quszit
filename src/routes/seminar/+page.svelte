@@ -324,14 +324,11 @@
   }
 
   details {
-    margin: 1rem 0;
     border-top: 1px solid #ccc;
+    padding: 1rem 0;
   }
 
   summary {
     cursor: pointer;
   }
-
-
-
 </style>
