@@ -59,23 +59,16 @@
     flex-direction: column;
     text-align: center;
   }
-
   .menu {
     flex-direction: column;
   }
-
   .menu ul {
     flex-direction: column;
   }
-
   .nav-toggle {
     display: block;
   }
-
-
-#main-menu.hidden {
-  display: none;
-}
-
-
+  #main-menu.hidden {
+    display: none;
+  }
 }
