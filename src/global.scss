@@ -6,6 +6,11 @@
   background: none;
 }
 
+a {
+  color: #ea7c38;
+  text-decoration: none;
+}
+
 $mobile-breakpoint: 30rem;
 
 @mixin mobile {
