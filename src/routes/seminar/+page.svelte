@@ -206,7 +206,7 @@
   </details>
 
   <details>
-    <summary>2023-05-26 — Kutas Péter: Kvantumalgoritmusok az izogénia-alapú kriptográfiában</summary>
+    <summary>2023. 05. 26. Kutas Péter: <b>Kvantumalgoritmusok az izogénia-alapú kriptográfiában</b></summary>
     <p>
       A poszt-kvantum kriptográfia feladata olyan protokollok kidolgozása, amelyek olyan nehéz problémán
       alapulnak, amelyekre nem ismert hatékony kvantumalgoritmus. Ennek számos irányzata közül az egyik
@@ -219,17 +219,19 @@
   </details>
 
   <details>
-    <summary>2023-05-19 — Csatári Jakab: Kvantumos bonyolultsági osztályok</summary>
+    <summary>2023. 05. 19. Csatári Jakab: <b>Kvantumos bonyolultsági osztályok</b></summary>
     <p>
-      <a
-        href="https://quszit.github.io/seminar/jakab-csatari-2023-05-19-seminar-kvantum-bonyolultsagelmeleti-szeparacio-relacios-osztalyokra.pdf"
-      >Diasor</a>
+      <a  href="https://quszit.github.io/seminar/csatari-2023-kvantum-bonyelm-talk.pdf">Diasor</a>
+    </p>
+    <p>
       Egy idei cikk egyik eredményét dolgoznám fel, ami arról szól hogy relációs bonyolultsági osztályokat hogyan
       érint kvantum vs klasszikus advice string.
     </p>
     <p>
-      A cikk: A Qubit, a Coin, and an Advice String Walk Into a Relational Problem — Scott Aaronson, Harry Buhrman,
-      William Kretschmer (<a href="https://arxiv.org/abs/2302.10332">https://arxiv.org/abs/2302.10332</a>)<br />
+      A cikk: A Qubit, a Coin, and an Advice String Walk Into a Relational Problem - Scott Aaronson, Harry Buhrman,
+      William Kretschmer <a href="https://arxiv.org/abs/2302.10332">[arXiv:2302.10332]</a>
+    </p>
+    <p>
       És az első eredményükről szeretnék beszélni, az FBQP/poly és FBQP/qpoly közötti szeparációról.
     </p>
   </details>
