@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font: Arial;
+  font-family: Arial, sans-serif;
   background: none;
 }
 
@@ -47,13 +47,14 @@
   text-decoration: none;
   text-align: center;
   color: #f7f7f8;
-  font-weight: 500;
 
-  border: none;
+  /* border: none;*/
+
   cursor: pointer;
-  color: #fff;
 
-  font-size: 1rem;
+  height: 1rem;
+  width: 1rem;
+
 }
 
 @media (max-width: 30rem) {
