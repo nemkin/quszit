@@ -6,6 +6,7 @@
   const options = {
     displayMode: block,
     throwOnError: false,
+    output: 'mathml'
   };
   $: katexString = katex.renderToString(tex, options);
 </script>
