@@ -11,7 +11,7 @@
 
   <h2>Publications</h2>
 
-  <table class="responsive-table">
+  <table class="responsive-table"> 
     <thead>
       <tr>
         <th>Authors</th>
@@ -20,6 +20,24 @@
       </tr>
     </thead>
     <tbody>
+      <tr class="table-row">
+        <td data-label="Authors">Friedl, Kabódi</td>
+        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2025-qubo-spanning-tree.pdf">QUBO formulation of some spanning tree related problems</a></td>
+        <td data-label="Year">2025</td>
+      </tr>
+
+      <tr class="table-row">
+        <td data-label="Authors">Nemkin, Alghazali, Cinkler, Friedl, Kabódi</td>
+        <td data-label="Title"><a href="https://quszit.github.io/publications/nacfk-2025-dwave.pdf">Experiments with QUBO on D-Wave</a></td>
+        <td data-label="Year">2025</td>
+      </tr>
+
+      <tr class="table-row">
+        <td data-label="Authors">Friedl, Nemkin</td>
+        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-nemkin-2023-qwalks.pdf">Simulations of quantum walks on regular graphs</a></td>
+        <td data-label="Year">2023</td>
+      </tr>
+
       <tr class="table-row">
         <td data-label="Authors">Daróczy, Friedl, Kabódi, Pereszlényi, Szabó</td>
         <td data-label="Title"><a href="https://quszit.github.io/publications/dfkpsz-2021-quantum-adaptive-boosting.pdf">Quantum inspired adaptive boosting</a></td>
