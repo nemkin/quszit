@@ -20,7 +20,7 @@
 
   <nav class="menu" aria-label="Main navigation">
     <MenuToggleButton controls="main-menu" />
-    <ul id="main-menu" class="hidden">
+    <ul id="main-menu" class="visible">
       <li><a href="{base}/">Home</a></li>
       <li><a href="{base}/seminar">Seminar</a></li>
       <li><a href="{base}/publications">Publications</a></li>
@@ -80,8 +80,9 @@
       {
         flex-direction: column;
         gap: 0.5rem;
-         &.hidden {
-          display: none;
+        display: none;
+        &.visible {
+          display: block;
         }
       }
 

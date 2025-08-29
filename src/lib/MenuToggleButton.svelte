@@ -5,7 +5,7 @@
   function toggle() {
     const el = document.getElementById(controls);
     if (!el) return;
-    el.classList.toggle('hidden');
+    el.classList.toggle('visible');
     expanded = !expanded;
   }
 </script>
