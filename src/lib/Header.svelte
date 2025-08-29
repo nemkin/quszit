@@ -10,7 +10,7 @@
       loading="lazy"
       width="110"
       height="120"
-      alt="QuSZIT logo: cute Schrödinger's cat inside the box, half dead half alive"
+      alt="QuSZIT logo: Schrödinger's cat inside the box, half dead half alive"
     />
     <div class="title">
       <h1>QuSZIT</h1>
