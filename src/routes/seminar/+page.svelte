@@ -63,6 +63,9 @@
   <details>
     <summary>2024. 03. 21. Video: <b>Tony Metger, QIP 2024, Unitary Complexity and the Uhlmann Transformation Problem</b></summary>
     <p>
+      <a href="https://youtu.be/kb-zqj3UMG0">Video</a>
+    </p>
+    <p>
       State transformation problems such as compressing quantum information or breaking quantum
       commitments are fundamental quantum tasks. However, their computational difficulty cannot
       easily be characterized using traditional complexity theory, which focuses on tasks with
