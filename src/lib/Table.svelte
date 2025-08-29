@@ -24,6 +24,7 @@
 
   @media (max-width: 30rem) {
     :global(.responsive-table),
+    :global(.responsive-table tbody),
     :global(.responsive-table td),
     :global(.responsive-table tr) {
       display: block;
