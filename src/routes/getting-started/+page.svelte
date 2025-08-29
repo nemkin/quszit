@@ -30,30 +30,15 @@
 
     <h3>Books</h3>
     <ul>
-      <li>
-        <a href="https://link.springer.com/book/10.1007/978-3-662-09636-9">Mika Hirvensalo: Quantum Computing</a>
-      </li>
-      <li>
-        <a href="https://doi.org/10.1002/9780470869048">Sándor Imre, Ferenc Balázs: Quantum Computing and Communications: An Engineering Approach</a>
-      </li>
-      <li>
-        <a href="https://doi.org/10.1017/CBO9780511976667">Michael A. Nielsen, Isaac L. Chuang: Quantum Computation and Quantum Information</a>
-      </li>
+      <li>Mika Hirvensalo: <a href="https://link.springer.com/book/10.1007/978-3-662-09636-9">Quantum Computing</a></li>
+      <li>Sándor Imre, Ferenc Balázs: <a href="https://doi.org/10.1002/9780470869048">Quantum Computing and Communications: An Engineering Approach</a></li>
+      <li>Michael A. Nielsen, Isaac L. Chuang: <a href="https://dl.acm.org/doi/10.5555/1972505">Quantum Computation and Quantum Information</a></li>
     </ul>
 
-
-    <h3>Misc</h3>
-    <ul>
-      <li>
-        <a href="https://qi.nemzetilabor.hu/hu">Quantum Information National Laboratory</a>
-      </li>
-      <li>
-        <a href="https://learning.quantum.ibm.com/">IBM Quantum Learning</a>
-      </li>
-      <li>
-        <a href="https://www.qaif.org/events/warsaw-quantum-computing-group">Warsaw Quantum Computing Group</a>
-      </li>
-    </ul>
+    <h3>Further links</h3>
+    <p>
+      The <a href="https://qi.nemzetilabor.hu/hu">Quantum Information National Laboratory</a> is a coordinated national research program that integrates various research groups across Hungarian universities and institutes. Its website provides information on ongoing projects, research fields, and events in quantum science in Hungary.
+    </p>
   </div>
 </Table>
 
