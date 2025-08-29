@@ -6,6 +6,7 @@
 <header>
   <a class="brand" href="{base}/">
     <img
+      class="logo"
       src="{base}/img/quantum-cat.png"
       loading="lazy"
       width="110"
@@ -49,6 +50,11 @@
 
     &:hover {
       opacity: 0.8;
+    }
+
+    .logo {
+      max-width: 100%;
+      height: auto;
     }
 
     .title {
