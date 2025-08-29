@@ -34,7 +34,7 @@
 </button>
 
 <style lang="scss">
-  @use "../global.scss" as *;
+  $mobile-breakpoint: 44rem;
 
   $icon-size: 1rem;
   $stroke-width: 2;
@@ -53,8 +53,6 @@
       color: inherit;
     }
 
-    @include mobile {
-      display: block;
-    }
+    @media (max-width: $mobile-breakpoint) { display: block; }
   }
 </style>

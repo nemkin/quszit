@@ -32,7 +32,7 @@
 </header>
 
 <style lang="scss">
-  @use "../global.scss" as *;
+  $mobile-breakpoint: 44rem;
 
   * {
     margin: 0;
@@ -43,11 +43,13 @@
     margin: 1rem;
     gap: 1rem;
     color: inherit;
+  
+    display: flex;
+    @media (max-width: $mobile-breakpoint) { flex-direction: column; }
+
     &:hover {
       opacity: 0.8;
     }
-
-    @include mobile-flex;
 
     .title {
       display: flex;
@@ -64,7 +66,8 @@
     background: #8c6bc7;
     color: #f7f7f8;
 
-    @include mobile-flex;
+    display: flex;
+    @media (max-width: $mobile-breakpoint) { flex-direction: column; }
 
     ul {
       gap: 2rem;
@@ -72,12 +75,14 @@
       list-style: none;
       color: inherit;
 
-      @include mobile-flex;
-      @include mobile {
-        &.hidden {
+      display: flex;
+      @media (max-width: $mobile-breakpoint)
+      {
+        flex-direction: column;
+        gap: 0.5rem;
+         &.hidden {
           display: none;
         }
-        gap: 0.5rem;
       }
 
       a {

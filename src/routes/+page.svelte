@@ -37,7 +37,7 @@
 </div>
 
 <style lang="scss">
-  @use "../global.scss" as *;
+  $mobile-breakpoint: 44rem;
 
   .main {
     margin: 1rem;
@@ -48,8 +48,8 @@
     flex-direction: row;
     margin: 2rem 0;
     gap: 1rem;
-    @include mobile-flex;
-    @media (max-width: 40rem) { flex-direction: column; }
+    display: flex;
+    @media (max-width: $mobile-breakpoint) { flex-direction: column; }
   }
 
   .person {
