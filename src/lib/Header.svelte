@@ -70,19 +70,17 @@
     @media (max-width: $mobile-breakpoint) { flex-direction: column; }
 
     ul {
+      display: flex;
       gap: 2rem;
-
       list-style: none;
       color: inherit;
-
-      display: flex;
       @media (max-width: $mobile-breakpoint)
       {
         flex-direction: column;
-        gap: 0.5rem;
         display: none;
         &.visible {
-          display: block;
+          display: flex;
+          gap: 0.5rem;
         }
       }
 
