@@ -10,22 +10,22 @@
   <div class="main">
     <h2>Getting started</h2>
 
-    <p>
-      On this page, we have collected resources that can help you get started in
-      understanding the basics of quantum computing and quantum algorithms.
-    </p>
+    <p>On this page, we have collected some resources to get started in quantum computing and quantum algorithms.</p>
 
     <h3>Courses</h3>
+    
+    <p>BME VIK HIT offers several introductory courses on quantum computing (some also available in English), for example:</p>
     <ul>
-      <li>
-        <a href="http://gilyen.hu/teaching/QC_2023.html">András Gilyén: Quantum Computing</a>
-      </li>
-      <li>
-        <a href="https://portal.vik.bme.hu/kepzes/targyak/VIHIMA14/">Sándor Imre, László Bacsárdi: Kvantum-informatika és kommunikáció</a>
-      </li>
-      <li>
-        <a href="https://www.ttk.bme.hu/BMETE92MM30">Milán Mosonyi: Mátrixanalízis és kvantum-információelmélet</a>
-      </li>
+      <li><a href="https://portal.vik.bme.hu/kepzes/targyak/VIHIMA18/">Kvantuminformatika és -kommunikáció</a>,</li>
+      <li><a href="https://portal.vik.bme.hu/kepzes/targyak/VIHIAV06/">Introduction to Quantum Computing and Communication</a>,</li>
+      <li>many further courses, as part of the <a href="https://www.hit.bme.hu/page/kvantuminformatika">Quantum Information Science</a> minor specialization within the Computer Science Engineering MSc program.</li>
+    </ul>
+
+    <p>Some advanced level courses given in Budapest include:</p>
+    <ul>
+      <li>András Gilyén's <a href="http://gilyen.hu/teaching/QC_2025.html">Quantum Computing</a> at ELTE,</li>
+      <li>Mihály Weiner's <a href="https://www.ait-budapest.com/syllabuses/quantum-probability-and-quantum-logic">Quantum Probability and Quantum Logic</a> at AIT,</li>
+      <li>Milán Mosonyi's <a href="https://www.ttk.bme.hu/BMETEAOBsMBKIE-00">Introduction to Quantum Information Theory</a> at BME TTK.</li>
     </ul>
 
     <h3>Books</h3>
@@ -39,15 +39,8 @@
       <li>
         <a href="https://doi.org/10.1017/CBO9780511976667">Michael A. Nielsen, Isaac L. Chuang: Quantum Computation and Quantum Information</a>
       </li>
-      <li>
-        <a href="https://www.amazon.com/Computers-intractability-NP-completeness-mathematical-sciences-dp-0716710447/dp/0716710447/">Michael R. Garey, David S. Johnson: Computers and Intractability: A Guide to the Theory of NP-Completeness</a>
-      </li>
     </ul>
 
-    <h3>Lecture notes</h3>
-    <ul>
-      <!-- Add items here when you have them -->
-    </ul>
 
     <h3>Misc</h3>
     <ul>
