@@ -43,15 +43,15 @@
       </tr>
       <tr class="table-row">
         <td data-label="Date">2021. 11. 16.</td>
-        <td data-label="Student">Viktória Nemkin</td>
-        <td data-label="Type"><span class="type tdk">TDK</span></td>
-        <td data-label="Title"><a href="https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf" target="_blank">Simulation of quantum walks on a classical computer</a></td>
-      </tr>
-      <tr class="table-row">
-        <td data-label="Date">2021. 11. 16.</td>
         <td data-label="Student">Márton Zalavári</td>
         <td data-label="Type"><span class="type tdk">TDK</span></td>
         <td data-label="Title"><a href="https://quszit.github.io/students/zalavari-2021-qubo-tdk.pdf" target="_blank">Kvadratikus optimalizálás kvantum alapú számítógéppel</a></td>
+      </tr>
+      <tr class="table-row">
+        <td data-label="Date">2021. 11. 16.</td>
+        <td data-label="Student">Viktória Nemkin</td>
+        <td data-label="Type"><span class="type tdk">TDK</span></td>
+        <td data-label="Title"><a href="https://quszit.github.io/students/nemkin-2021-simulate-qwalk-tdk.pdf" target="_blank">Simulation of quantum walks on a classical computer</a></td>
       </tr>
       <tr class="table-row">
         <td data-label="Date">2021. 05. 21.</td>
