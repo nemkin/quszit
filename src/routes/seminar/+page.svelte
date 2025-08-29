@@ -119,7 +119,7 @@
   <details>
     <summary>2023. 11. 27. Asbóth János: <b>Clifford-áramkörök szimulációja Heisenberg-képben, és pár szó a fermionokról</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/asboth-2023-qsim-clifford-talk.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/asboth-2023-qsim-clifford-talk.pdf">Slides</a>
     </p>
     <ol>
       <li> Clifford-szimulátor alapgondolata <a href="https://arxiv.org/abs/quant-ph/9807006">[arXiv:quant-ph/9807006]</a>
@@ -168,7 +168,7 @@
   <details>
     <summary>2023. 09. 25. Kiss Tamás: <b>Kvantumbitek gazdag dinamikája</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/kiss-2023-qubit-dynamics-talk.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/kiss-2023-qubit-dynamics-talk.pdf">Slides</a>
     </p>
     <p>
       Egy kétállapotú, nemrelativisztikus kvantumrendszer (vagyis egy kvantumbit) az egyik
@@ -288,7 +288,7 @@
   <details>
     <summary>2023. 04. 14. Gilyén András: <b>A kvantumos algoritmusok egyesített elmélete: kvantumos szingulárisérték-transzformáció</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/gilyen-2023-qsvd-talk.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/gilyen-2023-qsvd-talk.pdf">Slides</a>
     </p>
     <p>
       A kvantumos algoritmusok lineáris algebrai megközelítése az elmúlt években elvezetett egy egységes algoritmikus
@@ -317,7 +317,7 @@
   <details>
     <summary>2023. 03. 17. Gilyén András: <b>Bevezetés a Szegedy-féle kvantumbolyongásokba</b></summary>
     <p>
-      <a href="https://quszit.github.io/seminar/gilyen-2023-qwalks-talk.pdf">Diasor</a>
+      <a href="https://quszit.github.io/seminar/gilyen-2023-qwalks-talk.pdf">Slides</a>
     </p>
   </details>
 </section>
