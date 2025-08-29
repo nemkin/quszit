@@ -37,7 +37,7 @@
 
     <h3>Further</h3>
     <p>
-      The <a href="https://qi.nemzetilabor.hu/en">Quantum Information National Laboratory</a> is a coordinated national research program that integrates various research groups across Hungarian universities and institutes. Its website provides information on ongoing projects and current events in quantum science in Hungary.
+      The <a href="https://qi.nemzetilabor.hu/">Quantum Information National Laboratory</a> is a coordinated national research program that integrates various research groups across Hungarian universities and institutes. Its website provides information on ongoing projects and current events in quantum science in Hungary.
     </p>
   </div>
 </Table>
