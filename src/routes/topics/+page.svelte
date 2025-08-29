@@ -11,7 +11,7 @@
 
   <h2>Topics</h2>
 
-  If you are interested in writing a thesis or a TDK in a topic related to quantum computing, you can reach out via email. The topics below are given as examples, but other ideas are also welcomed.
+  If you are interested in writing a thesis or a TDK in a topic related to quantum computing, reach out to us via email. The topics below are given as examples, but other ideas are also welcomed.
 
   <h3>Quantum algorithms</h3>
 
