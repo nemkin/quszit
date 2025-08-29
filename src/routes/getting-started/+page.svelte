@@ -18,7 +18,7 @@
     <ul>
       <li><a href="https://portal.vik.bme.hu/kepzes/targyak/VIHIMA18/">Kvantuminformatika és -kommunikáció</a>,</li>
       <li><a href="https://portal.vik.bme.hu/kepzes/targyak/VIHIAV06/">Introduction to Quantum Computing and Communication</a>,</li>
-      <li>many further courses, as part of the <a href="https://www.hit.bme.hu/page/kvantuminformatika">Quantum Information Science</a> minor specialization within the Computer Science Engineering MSc program.</li>
+      <li>many further ones, as part of the <a href="https://www.hit.bme.hu/page/kvantuminformatika">Quantum Information Science</a> minor specialization within the Computer Science Engineering MSc program.</li>
     </ul>
 
     <p>Some advanced level courses given in Budapest include:</p>
