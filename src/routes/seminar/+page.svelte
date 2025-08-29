@@ -3,6 +3,9 @@
 </script>
 
 <section class="main">
+
+  <h2>Seminar</h2>
+
   <p>
     In the spring of 2023, we launched a seminar series titled
     <strong>Quantum Algorithms</strong>, where you can learn about the world of
