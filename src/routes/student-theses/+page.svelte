@@ -99,7 +99,6 @@
   margin: 1rem;
 }
 .type {
-  white-space: nowrap;
   
   $type-colors: (
     msc: #dc2626,
