@@ -10,7 +10,7 @@
   <div class="main">
     <h2>Getting started</h2>
 
-    <p>On this page, we have collected some resources to get started in quantum computing and quantum algorithms.</p>
+    <p>A collection of some resources to get started in quantum computing and quantum algorithms.</p>
 
     <h3>Courses</h3>
     
