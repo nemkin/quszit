@@ -44,11 +44,11 @@
   }
 
   .people {
-    @include mobile-flex;
     display: flex;
     flex-direction: row;
     margin: 2rem 0;
     gap: 1rem;
+    @include mobile-flex;
     @media (max-width: 40rem) { flex-direction: column; }
   }
 
