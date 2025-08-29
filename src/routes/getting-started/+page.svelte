@@ -35,7 +35,7 @@
       <li>Michael A. Nielsen, Isaac L. Chuang: <a href="https://dl.acm.org/doi/10.5555/1972505">Quantum Computation and Quantum Information</a></li>
     </ul>
 
-    <h3>Further links</h3>
+    <h3>Further</h3>
     <p>
       The <a href="https://qi.nemzetilabor.hu/hu">Quantum Information National Laboratory</a> is a coordinated national research program that integrates various research groups across Hungarian universities and institutes. Its website provides information on ongoing projects, research fields, and events in quantum science in Hungary.
     </p>
