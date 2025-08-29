@@ -11,7 +11,7 @@
 
   <h2>Author theses</h2>
 
-  <p>A collection of theses written by Authors at our group on quantum computing.</p>
+  <p>A collection of theses written by students at our group on quantum computing.</p>
 
   <table class="responsive-table">
     <thead>
