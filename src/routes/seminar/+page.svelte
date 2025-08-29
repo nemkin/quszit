@@ -36,7 +36,7 @@
   <details>
     <summary>2024. 04. 11. Jakab Csatári: <b>Near-Optimal Quantum Algorithms for Multivariate Mean Estimation</b></summary>
     <p>
-      <a href="https://arxiv.org/abs/2111.09787">https://arxiv.org/abs/2111.09787</a>
+      <a href="https://arxiv.org/abs/2111.09787">[arXiv:2111.09787]</a>
     </p>
     <p>
       Based on the article of Arjan Cornelissen, Yassine Hamoudi and Sofiene Jerbi, we will
