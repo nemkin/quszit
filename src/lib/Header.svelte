@@ -21,11 +21,11 @@
   <nav class="menu" aria-label="Main navigation">
     <MenuToggleButton controls="main-menu" />
     <ul id="main-menu" class="hidden">
-      <li><a href="{base}/news">News</a></li>
-      <li><a href="{base}/students">Students</a></li>
-      <li><a href="{base}/research">Research</a></li>
+      <li><a href="{base}/">Home</a></li>
       <li><a href="{base}/seminar">Seminar</a></li>
-      <li><a href="{base}/contact">Contact</a></li>
+      <li><a href="{base}/publications">Publications</a></li>
+      <li><a href="{base}/student-theses">Student theses</a></li>
+      <li><a href="{base}/topics">Topics</a></li>
     </ul>
   </nav>
 </header>
@@ -66,7 +66,7 @@
     @include mobile-flex;
 
     ul {
-      gap: 1rem;
+      gap: 2rem;
 
       list-style: none;
       color: inherit;
@@ -76,6 +76,7 @@
         &.hidden {
           display: none;
         }
+        gap: 0.5rem;
       }
 
       a {

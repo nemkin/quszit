@@ -44,7 +44,8 @@
     border: none;
     cursor: pointer;
     color: inherit;
-
+    padding: 0;
+    
     svg {
       width: $icon-size;
       height: $icon-size;
