@@ -66,9 +66,6 @@
   }
 
   .menu {
-    padding: 1rem;
-    gap: 1rem;
-
     background: #8c6bc7;
     color: #f7f7f8;
 
@@ -77,7 +74,6 @@
 
     ul {
       display: flex;
-      gap: 2rem;
       list-style: none;
       color: inherit;
       @media (max-width: $mobile-breakpoint)
@@ -86,16 +82,21 @@
         display: none;
         &.visible {
           display: flex;
-          gap: 0.5rem;
         }
       }
-
+      
+      li:last-child a{
+        padding: 0.5rem 1rem 1rem 1rem;
+      }
+      
       a {
         display: block;
+        padding: 0.5rem 1rem;
 
         text-decoration: none;
         color: inherit;
         font-weight: 500;
+
         &:hover {
           opacity: 0.8;
         }
