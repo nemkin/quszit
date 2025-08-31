@@ -33,6 +33,7 @@
       aria-controls="main-menu"
       aria-expanded={expanded}
       aria-label="Toggle navigation menu"
+      class="visible"
       on:click={toggle}
     >
       <svg
