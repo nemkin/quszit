@@ -9,7 +9,7 @@
 <Table>
   <div class="main">
 
-  <h2>Author theses</h2>
+  <h2>Student theses</h2>
 
   <p>A collection of theses written by students at our group on quantum computing.</p>
 
