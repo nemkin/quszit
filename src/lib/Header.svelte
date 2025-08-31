@@ -3,9 +3,9 @@
   
   export let expanded = true;
   function toggle() {
-    const el = document.getElementById("main-menu");
-    if (!el) return;
-    el.classList.toggle('visible');
+    const visible_class="visible";
+    document.getElementById("main-menu").classList.toggle(visible_class);
+    document.getElementById("menu-button").classList.toggle(visible_class);
     expanded = !expanded;
   }
 
@@ -29,6 +29,7 @@
 
   <nav class="menu" aria-label="Main navigation">
     <button
+      id="menu-button"
       aria-controls="main-menu"
       aria-expanded={expanded}
       aria-label="Toggle navigation menu"
@@ -99,7 +100,11 @@
       border: none;
       cursor: pointer;
       color: inherit;
-      padding: 1rem 1rem 0.5rem 1rem;
+      
+      padding: 1rem;
+      &.visible {
+        padding: 1rem 1rem 0.5rem 1rem;
+      }
       
       svg {
         $icon-size: 1rem;
