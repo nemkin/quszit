@@ -70,22 +70,15 @@
   }
 
   .brand {
+    display: flex;
+    @media (max-width: $mobile-breakpoint) { flex-direction: column; }
+
     margin: 1rem;
     gap: 1rem;
     color: inherit;
   
-    display: flex;
-    @media (max-width: $mobile-breakpoint) { flex-direction: column; }
-
-    &:hover {
-      opacity: 0.8;
-    }
-
-    .logo {
-      max-width: 100%;
-      height: auto;
-    }
-
+    &:hover { opacity: 0.8; }
+    .logo { max-width: 100%; height: auto; }
     .title {
       display: flex;
       flex-direction: column;
@@ -131,22 +124,21 @@
           display: flex;
         }
       }
-
-      li:last-child a{
-        padding: 0.5rem 1rem 1rem 1rem;
-      }
       
       a {
         display: block;
-        padding: 0.5rem 1rem;
+        padding: 1rem;
+        @media (max-width: $mobile-breakpoint) { padding: 0.5rem 1rem; }
 
         text-decoration: none;
         color: inherit;
         font-weight: 500;
 
-        &:hover {
-          opacity: 0.8;
-        }
+        &:hover { opacity: 0.8; }
+      }
+
+      li:last-child a {
+        @media (max-width: $mobile-breakpoint) { padding: 0.5rem 1rem 1rem 1rem; }
       }
     }
   }
