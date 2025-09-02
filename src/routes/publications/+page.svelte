@@ -46,7 +46,7 @@
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title">A weighted QuIDD data structure</td>
+        <td data-label="Title">A weighted QuIDD data structure (appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a>)</td>
         <td data-label="Year">2019</td>
       </tr>
       
@@ -88,7 +88,7 @@
       
       <tr class="table-row">
         <td data-label="Authors">Friedl</td>
-        <td data-label="Title">Periodic functions and quantum computing</td>
+        <td data-label="Title">Periodic functions and quantum computing (appeared at HJ2003)</td>
         <td data-label="Year">2003</td>
       </tr>
       
