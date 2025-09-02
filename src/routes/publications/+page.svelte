@@ -58,7 +58,7 @@
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2017-embedding-chimera.pdf">Embedding logical functions into the Chimera graph</a> (appeared at <a href="http://cs.bme.hu/jh2017/" title="10th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications, May 22-25, 2017 in Budapest, Hungary">JH2017</a>)</td>
+        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2017-embedding-chimera.pdf">Embedding logical functions into the Chimera graph</a> (appeared at <a href="http://cs.bme.hu/jh2017/">JH2017</a>)</td>
         <td data-label="Year">2017</td>
       </tr>
       
@@ -70,7 +70,7 @@
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Ivanyos, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://arxiv.org/abs/quant-ph/0211091">Hidden Translation and Translating Coset in quantum computing</a></td>
+        <td data-label="Title"><a href="https://epubs.siam.org/doi/10.1137/130907203">Hidden Translation and Translating Coset in quantum computing</a> (arXiv:<a href="https://arxiv.org/abs/quant-ph/0211091">quant-ph/0211091</a>)</td>
         <td data-label="Year">2014</td>
       </tr>
       
