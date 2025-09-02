@@ -24,35 +24,35 @@
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
         <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2025-qubo-spanning-tree.pdf">QUBO formulation of some spanning tree related problems</a></td>
-        <td data-label="Note">Appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
+        <td data-label="Note">appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
         <td data-label="Year">2025</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Nemkin, Alghazali, Cinkler, Friedl, Kabódi</td>
         <td data-label="Title"><a href="https://quszit.github.io/publications/nacfk-2025-dwave.pdf">Experiments with QUBO on D-Wave</a></td>
-        <td data-label="Note">Appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
+        <td data-label="Note">appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
         <td data-label="Year">2025</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Friedl, Nemkin</td>
         <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-nemkin-2023-qwalks.pdf">Simulations of quantum walks on regular graphs</a></td>
-        <td data-label="Note">Appeared at <a href="http://cs.bme.hu/jh2023/">JH2023</a></td>
+        <td data-label="Note">appeared at <a href="http://cs.bme.hu/jh2023/">JH2023</a></td>
         <td data-label="Year">2023</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Daróczy, Friedl, Kabódi, Pereszlényi, Szabó</td>
         <td data-label="Title"><a href="https://arxiv.org/abs/2102.00949">Quantum inspired adaptive boosting</a></td>
-        <td data-label="Note">Appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
+        <td data-label="Note">appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
         <td data-label="Year">2021</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
         <td data-label="Title">A weighted QuIDD data structure</td>
-        <td data-label="Note">Appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
+        <td data-label="Note">appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
         <td data-label="Year">2019</td>
       </tr>
       
@@ -66,7 +66,7 @@
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
         <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2017-embedding-chimera.pdf">Embedding logical functions into the Chimera graph</a></td>
-        <td data-label="Note">Appeared at <a href="http://cs.bme.hu/jh2017/">JH2017</a></td>
+        <td data-label="Note">appeared at <a href="http://cs.bme.hu/jh2017/">JH2017</a></td>
         <td data-label="Year">2017</td>
       </tr>
       
@@ -101,7 +101,7 @@
       <tr class="table-row">
         <td data-label="Authors">Friedl</td>
         <td data-label="Title">Periodic functions and quantum computing</td>
-        <td data-label="Note">Appeared at HJ2003</td>
+        <td data-label="Note">appeared at HJ2003</td>
         <td data-label="Year">2003</td>
       </tr>
       
