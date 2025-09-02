@@ -40,7 +40,7 @@
 
       <tr class="table-row">
         <td data-label="Authors">Daróczy, Friedl, Kabódi, Pereszlényi, Szabó</td>
-        <td data-label="Title"><a href="https://arxiv.org/abs/2102.00949">Quantum inspired adaptive boosting</a></td>
+        <td data-label="Title"><a href="https://arxiv.org/abs/2102.00949">Quantum inspired adaptive boosting</a> (appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a>)</td>
         <td data-label="Year">2021</td>
       </tr>
       
