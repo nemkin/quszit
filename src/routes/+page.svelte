@@ -10,8 +10,8 @@
       <p>associate professor</p>
       <p>
         <a href="mailto:friedl@cs.bme.hu">friedl(at)cs.bme.hu</a><br>
-        <a href="https://cs.bme.hu/~friedl/indexen.html">cs.bme.hu/~friedl</a>
-        <a href="https://www.szit.bme.hu/english/about_us/contact.html">IB137/a</a><br>
+        <a href="https://cs.bme.hu/~friedl/indexen.html">cs.bme.hu/~friedl</a><br>
+        <a href="https://www.szit.bme.hu/english/about_us/contact.html">IB137/a</a>
       </p>
     </div>
 
@@ -19,8 +19,8 @@
       <h3>László Kabódi</h3>
       <p>assistant lecturer</p>
       <p>
-        <a href="mailto:kabodil@gmail.com">kabodil(at)gmail.com</a>
-        <a href="https://www.szit.bme.hu/english/about_us/contact.html">IB137/a</a><br>
+        <a href="mailto:kabodil@gmail.com">kabodil(at)gmail.com</a><br>
+        <a href="https://www.szit.bme.hu/english/about_us/contact.html">IB137/a</a>
       </p>
     </div>
 
