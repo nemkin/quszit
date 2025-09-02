@@ -76,13 +76,13 @@
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://arxiv.org/abs/quant-ph/0208184">Quantum testers for hidden group properties</a></td>
+        <td data-label="Title"><a href="https://dl.acm.org/doi/10.5555/1549637.1549658">Quantum testers for hidden group properties</a> (arXiv:<a href="https://arxiv.org/abs/quant-ph/0208184">quant-ph/0208184</a>)</td>
         <td data-label="Year">2009</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Ivanyos, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://arxiv.org/abs/quant-ph/0211091">Hidden Translation and Orbit Coset in quantum computing</a></td>
+        <td data-label="Title"><a href="https://dl.acm.org/doi/10.1145/780542.780544">Hidden Translation and Orbit Coset in quantum computing</a> (arXiv:<a href="https://arxiv.org/abs/quant-ph/0211091">quant-ph/0211091</a>)</td>
         <td data-label="Year">2003</td>
       </tr>
       
