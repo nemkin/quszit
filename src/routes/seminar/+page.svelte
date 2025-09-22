@@ -20,7 +20,7 @@
     <a href="http://gilyen.hu">András Gilyén</a>
   </p>
 
-  <h3>2024</h3>
+  <h3>2024 spring</h3>
 
   <details>
     <summary>2024. 05. 16. Péter Kutas: <b>Quantum cryptanalysis of isogeny-based cryptography</b></summary>
@@ -92,7 +92,7 @@
     </p>
   </details>
 
-  <h3>2023</h3>
+  <h3>2023 autumn</h3>
 
   <details>
     <summary>2023. 12. 04. Márton Áron: <b>Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</b></summary>
@@ -214,6 +214,8 @@
       qubit-párok, qubit n-esek, vagy más rendszerek is, ahol persze szintén megjelenhet a zaj.
     </p>
   </details>
+
+  <h3>2023 spring</h3>
 
   <details>
     <summary>2023. 05. 26. Kutas Péter: <b>Kvantumalgoritmusok az izogénia-alapú kriptográfiában</b></summary>
