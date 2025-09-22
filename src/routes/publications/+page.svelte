@@ -16,95 +16,94 @@
       <tr>
         <th>Authors</th>
         <th>Title</th>
-        <th>Note</th>
+        <th>Venue</th>
         <th>Year</th>
       </tr>
     </thead>
     <tbody>
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2025-qubo-spanning-tree.pdf">QUBO formulation of some spanning tree related problems</a></td>
-        <td data-label="Note">appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
+        <td data-label="Title">QUBO formulation of some spanning tree related problems</td>
+        <td data-label="Venue"><a href="https://alg.c.titech.ac.jp/hj2025/">Proceedings of the 13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 155-163.</a></td>
         <td data-label="Year">2025</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Nemkin, Alghazali, Cinkler, Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://quszit.github.io/publications/nacfk-2025-dwave.pdf">Experiments with QUBO on D-Wave</a></td>
-        <td data-label="Note">appeared at <a href="https://alg.c.titech.ac.jp/hj2025/">HJ2025</a></td>
+        <td data-label="Title">Experiments with QUBO on D-Wave</td>
+        <td data-label="Venue"><a href="https://alg.c.titech.ac.jp/hj2025/">Proceedings of the 13th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 289-296.</a></td>
         <td data-label="Year">2025</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Friedl, Nemkin</td>
-        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-nemkin-2023-qwalks.pdf">Simulations of quantum walks on regular graphs</a></td>
-        <td data-label="Note">appeared at <a href="http://cs.bme.hu/jh2023/">JH2023</a></td>
+        <td data-label="Title">Simulations of quantum walks on regular graphs</td>
+        <td data-label="Venue"><a href="http://cs.bme.hu/jh2023/">Proceedings of the 12th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications, pp. 373-381.</a></td>
         <td data-label="Year">2023</td>
       </tr>
 
       <tr class="table-row">
         <td data-label="Authors">Daróczy, Friedl, Kabódi, Pereszlényi, Szabó</td>
-        <td data-label="Title"><a href="https://arxiv.org/abs/2102.00949">Quantum inspired adaptive boosting</a></td>
-        <td data-label="Note">appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
-        <td data-label="Year">2021</td>
-      </tr>
-      
-      <tr class="table-row">
-        <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title">A weighted QuIDD data structure</td>
-        <td data-label="Note">appeared at <a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">HJ2019</a></td>
+        <td data-label="Title">Quantum inspired adaptive boosting</td>
+        <td data-label="Venue"><a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">Proceedings of the 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 429-437.</a></td>
         <td data-label="Year">2019</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://cyber.bibl.u-szeged.hu/index.php/actcybern/article/view/3938">Storing the quantum Fourier operator in the QuIDD data structure</a></td>
-        <td data-label="Note"></td>
+        <td data-label="Title">A weighted QuIDD data structure</td>
+        <td data-label="Venue"><a href="https://www.opt.mist.i.u-tokyo.ac.jp/hj2019/">Proceedings of the 11th Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 208-216.</a></td>
+        <td data-label="Year">2019</td>
+      </tr>
+      
+      <tr class="table-row">
+        <td data-label="Authors">Friedl, Kabódi</td>
+        <td data-label="Title">Storing the quantum Fourier operator in the QuIDD data structure</td>
+        <td data-label="Venue"><a href="https://doi.org/10.14232/actacyb.23.2.2017.5">Acta Cybernetica, 23(2), 503-512.</a></td>
         <td data-label="Year">2017</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://quszit.github.io/publications/friedl-kabodi-2017-embedding-chimera.pdf">Embedding logical functions into the Chimera graph</a></td>
-        <td data-label="Note">appeared at <a href="http://cs.bme.hu/jh2017/">JH2017</a></td>
+        <td data-label="Title">Embedding logical functions into the Chimera graph</td>
+        <td data-label="Venue"><a href="http://cs.bme.hu/jh2017/">Proceedings of the 10th Japanese-Hungarian Symposium on Discrete Mathematics and Its Applications, pp. 157-162.</a></td>
         <td data-label="Year">2017</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
-        <td data-label="Title"><a href="https://pp.bme.hu/eecs/article/view/8214"> An idea to improve QuIDD based quantum simulations</a></td>
-        <td data-label="Note"></td>
+        <td data-label="Title">An idea to improve QuIDD based quantum simulations</td>
+        <td data-label="Venue"><a href="https://doi.org/10.3311/PPee.8214">Periodica Polytechnica Electrical Engineering and Computer Science, 59(2), pp. 48–55.</a></td>
         <td data-label="Year">2015</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Ivanyos, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://epubs.siam.org/doi/10.1137/130907203">Hidden Translation and Translating Coset in quantum computing</a></td>
-        <td data-label="Note">arXiv: <a href="https://arxiv.org/abs/quant-ph/0211091">quant-ph/0211091</a></td>
+        <td data-label="Title">Hidden Translation and Translating Coset in quantum computing</td>
+        <td data-label="Venue"><a href="https://doi.org/10.1137/130907203">SIAM Journal on Computing, 43(1), pp. 1–24.</a></td>
         <td data-label="Year">2014</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://dl.acm.org/doi/10.5555/1549637.1549658">Quantum testers for hidden group properties</a></td>
-        <td data-label="Note">arXiv: <a href="https://arxiv.org/abs/quant-ph/0208184">quant-ph/0208184</a></td>
+        <td data-label="Title">Quantum testers for hidden group properties</td>
+        <td data-label="Venue"><a href="https://dl.acm.org/doi/10.5555/1549637.1549658">Fundamenta Informaticae, 91(2), pp. 325-340.</a></td>
         <td data-label="Year">2009</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl, Ivanyos, Magniez, Santha, Sen</td>
-        <td data-label="Title"><a href="https://dl.acm.org/doi/10.1145/780542.780544">Hidden Translation and Orbit Coset in quantum computing</a></td>
-        <td data-label="Note">arXiv: <a href="https://arxiv.org/abs/quant-ph/0211091">quant-ph/0211091</a></td>
+        <td data-label="Title">Hidden Translation and Orbit Coset in quantum computing</td>
+        <td data-label="Venue"><a href="https://dl.acm.org/doi/10.1145/780542.780544">Proceedings of the Thirty-Fifth Annual ACM Symposium on Theory of Computing, pp. 1–9.</a></td>
         <td data-label="Year">2003</td>
       </tr>
       
       <tr class="table-row">
         <td data-label="Authors">Friedl</td>
         <td data-label="Title">Periodic functions and quantum computing</td>
-        <td data-label="Note">appeared at HJ2003</td>
+        <td data-label="Venue">In Proceedings of the 3rd Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 303-308.</td>
         <td data-label="Year">2003</td>
       </tr>
-      
     </tbody>
   </table>
   </div>
