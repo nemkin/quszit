@@ -20,6 +20,8 @@
     <a href="http://gilyen.hu">András Gilyén</a>
   </p>
 
+  <h3>2024</h3>
+
   <details>
     <summary>2024. 05. 16. Péter Kutas: <b>Quantum cryptanalysis of isogeny-based cryptography</b></summary>
     <p>
@@ -89,6 +91,8 @@
       many natural quantum information processing tasks.
     </p>
   </details>
+
+  <h3>2023</h3>
 
   <details>
     <summary>2023. 12. 04. Márton Áron: <b>Kvantumáramkörök hatékony szimulációja Fermionikus Lineáris Optikával</b></summary>
