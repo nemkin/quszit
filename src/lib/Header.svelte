@@ -54,11 +54,11 @@
     </button>
     <ul id="main-menu" class="visible">
       <li><a href="{base}/">Home</a></li>
-      <li><a href="{base}/seminar">Seminar</a></li>
       <li><a href="{base}/publications">Publications</a></li>
       <li><a href="{base}/student-theses">Student theses</a></li>
       <li><a href="{base}/topics">Topics</a></li>
       <li><a href="{base}/getting-started">Getting started</a></li>
+      <li><a href="{base}/seminar">Seminar</a></li>
     </ul>
   </nav>
 </header>
