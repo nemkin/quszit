@@ -11,6 +11,8 @@
 
   <h2>Publications</h2>
 
+  A list of our quantum-related publications.
+
   <table class="responsive-table"> 
     <thead>
       <tr>
