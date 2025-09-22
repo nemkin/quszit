@@ -1,4 +1,4 @@
-name: Deploy SvelteKit to GitHub Pages
+name: Dev -> Deploy SvelteKit to GitHub Pages
 
 on:
   push:
@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          BASE_PATH: /quszit
+          BASE_PATH: /quantum
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
