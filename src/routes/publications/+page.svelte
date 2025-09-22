@@ -101,7 +101,7 @@
       <tr class="table-row">
         <td data-label="Authors">Friedl</td>
         <td data-label="Title">Periodic functions and quantum computing</td>
-        <td data-label="Venue">In Proceedings of the 3rd Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 303-308.</td>
+        <td data-label="Venue">Proceedings of the 3rd Hungarian-Japanese Symposium on Discrete Mathematics and Its Applications, pp. 303-308.</td>
         <td data-label="Year">2003</td>
       </tr>
     </tbody>
