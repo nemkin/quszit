@@ -61,7 +61,7 @@
       <tr class="table-row">
         <td data-label="Authors">Friedl, Kabódi</td>
         <td data-label="Title">Storing the quantum Fourier operator in the QuIDD data structure</td>
-        <td data-label="Venue"><a href="https://doi.org/10.14232/actacyb.23.2.2017.5">Acta Cybernetica, 23(2), 503-512.</a></td>
+        <td data-label="Venue"><a href="https://doi.org/10.14232/actacyb.23.2.2017.5">Acta Cybernetica, 23(2), pp. 503-512.</a></td>
         <td data-label="Year">2017</td>
       </tr>
       
